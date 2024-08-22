@@ -1091,8 +1091,8 @@
     <string name="SET_PRIVACY">SET PRIVACY</string>
     <string name="ANIMATION">ANIMATION</string>
     <string name="Color_Cycle">Color Cycle</string>
-    <string name="Fast">Fast</string>
-    <string name="Slow">Slow</string>
+    <string name="Fast">Zû</string>
+    <string name="Slow">Hedî</string>
     <string name="Rainbow">Rainbow</string>
     <string name="Horizontal">Horizontal</string>
     <string name="Vertical">Vertical</string>
@@ -1124,7 +1124,7 @@
     <string name="Textures_will_be_regenerated_">Black textures and custom skins will be regenerated.</string>
     <string name="Enable_Profile_Colors">Enable Profile Colors</string>
     <string name="Session_Stats">Session Stats</string>
-    <string name="Time_">Time:</string>
+    <string name="Time_">Zıman :</string>
     <string name="Show_Session_Stats">Show Session Stats</string>
     <string name="VALENTINES_DAY">"VALENTINES DAY"</string>
     <string name="Giveaways_">Giveaways!</string>
@@ -1142,8 +1142,8 @@
 
     <string name="Refund__Multiskin">Refund\nMultiskin</string>
     <string name="Invalid_Clan_ID_">Invalid clan ID.</string>
-    <string name="MUTED">MUTED</string>
-    <string name="SKIN">SKIN</string>
+    <string name="MUTED">Bêdenk</string>
+    <string name="SKIN">Çerm</string>
     <string name="Choose_Skin_Size">Choose Skin Size</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">Other players will not be able to hear you!</string>
     <string name="Allow_permission_to_enable_voice_recording_">Allow permission to enable voice recording.</string>
